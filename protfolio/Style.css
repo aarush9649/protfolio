@@ -104,3 +104,8 @@ a:hover {
 a:active {
   color: blue;
 }
+#contact{
+  font-size: 2em;
+  color: brown;
+  text-align: center;
+}
